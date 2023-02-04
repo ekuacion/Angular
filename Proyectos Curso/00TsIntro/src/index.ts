@@ -1,0 +1,2 @@
+/*  ===== Encadenamiento opcional ===== */
+
